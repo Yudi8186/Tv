@@ -1,4 +1,10 @@
 #EXTM3U
+
+===============================================================================
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="ADMIN",HBO 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
+
 #EXTINF:-1 group-title="GANGGUAN HUBUNGI 085815053825",
 
 #EXTM3U billed-msg="085815053825 PEMBAYARAN TIAP TANGGL 1 GANGGUAN LANGSUNG KE ADMIN YA.!!!"
