@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ADMIN 085815053825" tvg-url="https://github.com/Yudi8186/Bayar.git" tvg-logo="https://github.com/Yudi8186/Bayar.git" group-title="ADMIN 085815053825", ADMIN 085815063825
+#EXTINF:-1 tvg-id="ADMIN 085815053825" tvg-url="https://youtu.be/Ex0i_WKdYAw?si=KQgqpFUIhsDrkKU-" tvg-logo="https://github.com/Yudi8186/Bayar.git" group-title="ADMIN 085815053825", ADMIN 085815063825
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
 
 #EXTM3U billed-msg="ADMIN:085815053825 PEMBAYARAN TIAP TANGGL 1 GANGGUAN LANGSUNG KE ADMIN YA.!!!"
