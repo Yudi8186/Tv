@@ -1,6 +1,6 @@
 EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels", INDOSIAR 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="ADMIN 085815053825", GANGGUAN LANGSUNG INFO ADMIN 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
 #EXTM3U billed-msg="ADMIN:085815053825 PEMBAYARAN TIAP TANGGL 1 GANGGUAN LANGSUNG KE ADMIN YA.!!!"
