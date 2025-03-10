@@ -6,6 +6,9 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 #EXTINF:-1 tvg-logo="" group-title="PULSA", MASIH DALAM PROSES 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-#EXTINF:-1 tvg-logo="" group-title="LISTRIK ", MASIH DALAM PROSES 
+#EXTINF:-1 tvg-logo="" group-title="LISTRIK", MASIH DALAM PROSES 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-#EXTM3U billed-msg="YUDI 085815053825 FERI 0881027567922 BIAYA PASANG 100K PERBULAN 20K
+$EXTINF:-1 tvg-logo="" group-title="DUKCAPIL KTP KK", MASIH DALAM PROSES 
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+
+#EXTM3U billed-msg="YUDI 085815053825 FERI 0881027567922 BIAYA PASANG 100K PERBULAN 20K"
