@@ -1,8 +1,8 @@
 EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="ADMIN 1 YUDI 085815053825", 085815053825
+#EXTINF:-1 tvg-logo="" group-title="YUDI 085815053825", 085815053825
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-#EXTINF:-1 tvg-logo="" group-title="ADMIN 2 FERI 0881027567922", 0881027567922 
+#EXTINF:-1 tvg-logo="" group-title="FERI 0881027567922", 0881027567922 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 #EXTINF:-1 tvg-logo="" group-title="PULSA", MASIH DALAM PROSES 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
