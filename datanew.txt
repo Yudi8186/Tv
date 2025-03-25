@@ -9,4 +9,4 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 #EXTINF:-1 tvg-logo="" group-title="LISTRIK", MASIH DALAM PROSES 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
-#EXTM3U billed-msg="YUDI 085815053825 FERI 0881027567922 BIAYA PASANG 100K PERBULAN 20K"
+#EXTM3U billed-msg="YUDI 085815053825 FERI 0881027567922 lebih hemat Bayar 1 tahun cukup 350 saja"
