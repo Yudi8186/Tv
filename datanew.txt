@@ -4,9 +4,5 @@ EXTM3U
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 #EXTINF:-1 tvg-logo="" group-title="2 FERI 0881027567922", 0881027567922 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-#EXTINF:-1 tvg-logo="" group-title="PULSA", MASIH DALAM PROSES 
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-#EXTINF:-1 tvg-logo="" group-title="LISTRIK", MASIH DALAM PROSES 
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
 #EXTM3U billed-msg="MINAL AIDIN WAL FAIDZIN MOHON MAAF LAHIR DAN BATIN SELAMAT HARI RAYA IDUL FITRI 1446 H"
