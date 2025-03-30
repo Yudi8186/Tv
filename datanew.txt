@@ -9,4 +9,4 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 #EXTINF:-1 tvg-logo="" group-title="LISTRIK", MASIH DALAM PROSES 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
-#EXTM3U billed-msg="lebih hemat Bayar 1 tahun cukup 350k saja garansi selama berlangganan"
+#EXTM3U billed-msg="MINAL AIDIN WAL FAIDZIN MOHON MAAF LAHIR DAN BATIN SELAMAT HARI RAYA IDUL FITRI 1446 H"
