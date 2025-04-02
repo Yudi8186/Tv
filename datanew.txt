@@ -199,40 +199,5 @@ https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="Sports",SKYSPORTS_4
-http://extraott.com/live/6945574629/7169628753/710945.ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="Sports",SKYSPORTS_5
-http://extraott.com/live/6945574629/7169628753/710944.ts
-
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="Sports",SKYSPORTS_6
-http://extraott.com/live/6945574629/7169628753/710943.ts
-
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="Sports",SKYSPORTS_7
-http://extraott.com/live/6945574629/7169628753/710942.ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1
 
 #EXTM3U billed-msg="MINAL AIDIN WAL FAIDZIN MOHON MAAF LAHIR DAN BATIN SELAMAT HARI RAYA IDUL FITRI 1446 H"
