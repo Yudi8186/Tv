@@ -269,5 +269,18 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
 
+#EXTINF:-1 tvg-id="Dubai.sp1" tvg-logo="https://i.postimg.cc/Qdg3BWWx/6515a4c14a.png" group-title="UNITED ARAB EMIRATES", DUBAI SPORT 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Dubai.sp2" tvg-logo="https://i.postimg.cc/J4kmLFrX/65159df2a1.png" group-title="UNITED ARAB EMIRATES", DUBAI SPORT 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dubai.sp3" tvg-logo="https://i.postimg.cc/x1VQTP84/65dc4f148c.png" group-title="UNITED ARAB EMIRATES", DUBAI SPORT 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="sudah.abd" tvg-logo="https://vipotv.com/wp-content/uploads/2021/02/Sharjah-Sport-live-vipotv.png" group-title="UNITED ARAB EMIRATES",SHARJAH SPORT
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
+
+
 
 #EXTM3U billed-msg="MINAL AIDIN WAL FAIDZIN MOHON MAAF LAHIR DAN BATIN SELAMAT HARI RAYA IDUL FITRI 1446 H/ RECEIVER RUSAK KITA GANTI BARU"
