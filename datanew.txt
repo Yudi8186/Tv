@@ -280,6 +280,19 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 
 #EXTINF:-1 tvg-id="sudah.abd" tvg-logo="https://vipotv.com/wp-content/uploads/2021/02/Sharjah-Sport-live-vipotv.png" group-title="CADANGAN",SHARJAH SPORT
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-three-qa.png" group-title="CADANGAN", AL KASS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass3vak/master450.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-four-qa.png" group-title="CADANGAN", AL KASS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass4cn/master450.m3u8
+
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola.png" group-title="CADANGAN",Arena Bola 1
+http://iptv12k.com:35461/654321/123456/20630
+
 =========================================== UFC/MMA ==============================================================================
 
 #EXTINF:-1 group-title="UFC/MMA" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5TT3kU7Wux9Bxm5HxGrQ22tRcT2Kap3qPHA&usqp=CAU",TNT SPORTS 1 UK
