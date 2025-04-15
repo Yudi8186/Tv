@@ -678,5 +678,15 @@ https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layo
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://www.themoviedb.org/t/p/w500/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg", The Fast and The Furious 9
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EYFJJhoqTdJOnXSIglFaOkUBV3yWfkGLT3gOj1s5HIeMKg
 
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://www.themoviedb.org/t/p/original/pk8TyMix5QtQ1ND5MROfIPvx4XJ.jpg", The Fast and The Furious 4
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EaH8dIVoIApEjeGV0AhUug8BvhyIsmFgo5-EUVEJ2zKKuA
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://www.themoviedb.org/t/p/w500/vDztZS30sheoqnJnKyO4QMnf3f8.jpg", The Fast and The Furious 5
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQIqVF8BScJKpfwcaYJHcRoBvHfm2re3miK4YuVSqN5OKg
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://www.themoviedb.org/t/p/w500/n31VRDodbaZxkrZmmzyYSFNVpW5.jpg", The Fast and The Furious 6
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EWBgbiVY0JxPoZx3yZ5DN58BAr_xqFNvltCTC9iSRT-BJA
+
+
 
 #EXTM3U billed-msg="MINAL AIDIN WAL FAIDZIN MOHON MAAF LAHIR DAN BATIN SELAMAT HARI RAYA IDUL FITRI 1446 H/ RECEIVER RUSAK KITA GANTI BARU"
