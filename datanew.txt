@@ -660,4 +660,14 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Ant-Man%20
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg", Ant-Man and the Wasp: Quantumania (2023)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Ant-Man%20and%20the%20Wasp-%20Quantumania.mp4
 
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://image.tmdb.org/t/p/original/fiVW06jE7z9YnO4trhaMEdclSiC.jpg", The Fast and The Furious 10
+https://storage.dewanonton.online/hls/37f2b3ab-e639-474a-a890-b9e951cd640a.mp4/index.m3u8
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b0/Avatar-Teaser-Poster.jpg/220px-Avatar-Teaser-Poster.jpg" group-title="VOD", AVATAR 1
+https://stream.hownetwork.xyz/xxx/avatar-2009-bluray/10/480.m3u8
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b0/Avatar-Teaser-Poster.jpg/220px-Avatar-Teaser-Poster.jpg" group-title="VOD", AVATAR : THE WAY OF WATER 2
+https://stream.hownetwork.xyz/xxx/avatar-the-way-of-water-2022-bluray/2/480.m3u8
+
+
 #EXTM3U billed-msg="MINAL AIDIN WAL FAIDZIN MOHON MAAF LAHIR DAN BATIN SELAMAT HARI RAYA IDUL FITRI 1446 H/ RECEIVER RUSAK KITA GANTI BARU"
