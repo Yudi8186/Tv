@@ -712,4 +712,20 @@ http://ky-iptv.com:80/HSrkzmekGs/NECJHrN6ZK/1356032.ts
 https://www.googleapis.com/drive/v3/files/1N8MtFGg-E2PDaX_Dbcn_zh925tvwr-DM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
+#EXTINF:-1 tvg-id="karate.if" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Karate_kid_ver2.jpg" group-title="VOD",THE KARATE KID
+https://stream.hownetwork.xyz/xxx/karate-kid-2010-bluray/7/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RNxqhxz/Warkop1.jpg" group-title="VOD", WARKOP DKI REBORN: Jangkrik Boss! Part 1 (2016)
+https://koceng.nofendraedi.workers.dev/WK1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j62Rx3J/Warkop2.jpg" group-title="VOD", WARKOP DKI REBORN: JANGKRIK BOSS! PART 2 (2017)
+https://koceng.nofendraedi.workers.dev/WK2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvk1cNC/Warkop3.jpg" group-title="VOD", WARKOP DKI REBORN: PART 3 (2019)
+https://koceng.nofendraedi.workers.dev/WK3.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Tc7Rw7B/Warkop-DKI-Reborn-4-2020.jpg" group-title="VOD", WARKOP DKI REBORN 4 (2020)
+https://koceng.nofendraedi.workers.dev/WK4.mp4
+
+
 #EXTM3U billed-msg="MINAL AIDIN WAL FAIDZIN MOHON MAAF LAHIR DAN BATIN SELAMAT HARI RAYA IDUL FITRI 1446 H/ RECEIVER RUSAK KITA GANTI BARU"
