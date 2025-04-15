@@ -651,4 +651,13 @@ https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_la
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg", The Apes 03
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbjLkoBo6j1OoIj80_ni6ksBIAPzJmsQG1QjMTNO1y9mUA
 
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/2786.jpg", Ant-Man (2015)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Ant-Man.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/3262.jpg", Ant-Man and the Wasp (2018)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Ant-Man%20and%20the%20Wasp.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg", Ant-Man and the Wasp: Quantumania (2023)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Ant-Man%20and%20the%20Wasp-%20Quantumania.mp4
+
 #EXTM3U billed-msg="MINAL AIDIN WAL FAIDZIN MOHON MAAF LAHIR DAN BATIN SELAMAT HARI RAYA IDUL FITRI 1446 H/ RECEIVER RUSAK KITA GANTI BARU"
