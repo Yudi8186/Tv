@@ -696,5 +696,15 @@ https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layo
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://www.themoviedb.org/t/p/w500/cm2ffqb3XovzA5ZSzyN3jnn8qv0.jpg", The Fast and The Furious 3
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EW9C5Y9CnkZNs_00AzmzLQsBJJEzq4D3SZab5UP1okWgTA
 
+#EXTINF:-1 group-title="VOD",Ngeri-Ngeri Sedap
+https://www.googleapis.com/drive/v3/files/1yhg2GzeYAAtv-zg6MvET0s188Q3FC5Vj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="VOD ",Cinta Subuh
+https://www.googleapis.com/drive/v3/files/1djDcWHiriXqFbzPQyAiyYbmrnvXTQ0qx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="VOD",Love in Game
+https://www.googleapis.com/drive/v3/files/1rJlOHyElfVyr2_i-BUUcolzqJFvuaKb5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
 
 #EXTM3U billed-msg="MINAL AIDIN WAL FAIDZIN MOHON MAAF LAHIR DAN BATIN SELAMAT HARI RAYA IDUL FITRI 1446 H/ RECEIVER RUSAK KITA GANTI BARU"
