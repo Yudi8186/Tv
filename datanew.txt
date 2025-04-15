@@ -705,6 +705,11 @@ https://www.googleapis.com/drive/v3/files/1djDcWHiriXqFbzPQyAiyYbmrnvXTQ0qx?alt=
 #EXTINF:-1 group-title="VOD",Love in Game
 https://www.googleapis.com/drive/v3/files/1rJlOHyElfVyr2_i-BUUcolzqJFvuaKb5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zX7H49WS/kkndidesapenari.jpg" group-title="VOD",THE LEGEND OF BRUECE LEE
+http://ky-iptv.com:80/HSrkzmekGs/NECJHrN6ZK/1356032.ts
+
+#EXTINF:-1 group-title="VOD",Lara Ati
+https://www.googleapis.com/drive/v3/files/1N8MtFGg-E2PDaX_Dbcn_zh925tvwr-DM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
 #EXTM3U billed-msg="MINAL AIDIN WAL FAIDZIN MOHON MAAF LAHIR DAN BATIN SELAMAT HARI RAYA IDUL FITRI 1446 H/ RECEIVER RUSAK KITA GANTI BARU"
