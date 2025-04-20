@@ -6,6 +6,11 @@ https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce
 #EXTINF:-1 tvg-logo="" group-title="2 FERI 0881027567922", 085815053825
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce
+#EXTINF:-1 tvg-logo="" group-title="CHANEL MATI LAPOR ADMIN", 085815053825
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce
+
+
+
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="1 SATELIT", RCTI FERI COBA DULU 
@@ -733,129 +738,7 @@ https://koceng.nofendraedi.workers.dev/WK3.mp4
 https://koceng.nofendraedi.workers.dev/WK4.mp4
 
 
-----------------------------------------------ACTION------------------------------------------------------------
-#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-big-city-greens-the-movie-spacecation-2024-lk21-d21.jpg.webp" group-title="ACTION 2024",Big City Greens the Movie: Spacecation (2024)
-https://stream.hownetwork.xyz/xxx/big-city-greens-the-movie-spacecation-2024-webdl_X_e6d2a89b/22/480.m3u8
-
-#EXTINF:-1 tvg-logo="http://164.215.103.147/wp-content/uploads/2023/06/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg" group-title="ACTION 2024",John Wick: Chapter 2 (2017)
-https://d35.doodrive.com/d/6vo7wy?d=c7ffbd00a6f2e320e187c93a
-
-#EXTINF:-1 tvg-logo="http://164.215.103.147/wp-content/uploads/2019/05/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg" group-title="ACTION 2024",John Wick: Chapter 3 – Parabellum (2019)
-https://d35.doodrive.com/d/dmxjvx?d=de65db133eefb5efe0bce91d
-
-
-#EXTINF:-1 tvg-logo="https://cdn.pusatfilm21.info/wp-content/uploads/2024/06/eacWm6jPrjkpqhi4VzwqYeJWL6k.jpg" group-title="ACTION 2024",Damaged (2024)
-https://d37.doodrive.com/d/pk421x?d=a8bde37bf95e35e66fc7c966
-
-#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-life-after-fighting-2024-lk21-d21.jpg.webp" group-title="ACTION 2024",Life After Fighting (2024) 
-https://stream.hownetwork.xyz/xxx/life-after-fighting-2024-webdl_X_1b6bb53d/22/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-boy-kills-world-2024-lk21-d21.jpg.webp" group-title="ACTION 2024",Boy Kills World (2024)
-https://stream.hownetwork.xyz/xxx/boy-kills-world-2024-webdl_X_17491eaf/22/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-jackdaw-2024-lk21-d21.jpg.webp" group-title="ACTION 2024",Jackdaw (2024)
-https://stream.hownetwork.xyz/xxx/jackdaw-2024-bluray_X_fa47fe4f/22/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-binary-samurai-2023-lk21-d21.jpg.webp" group-title="ACTION 2024",Binary Samurai (2023)
-https://stream.hownetwork.xyz/xxx/binary-samurai-2023-webdl_X_890fe4e0.480/22/480.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-paradox-effect-2024-lk21-d21.jpg.webp" group-title="ACTION 2024",Paradox Effect (2024)
-https://stream.hownetwork.xyz/xxx/paradox-effect-2024-webdl_X_1ce05063/22/480.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-straight-outta-oakland-2014-lk21-d21.jpg.webp" group-title="ACTION 2024",Straight Outta Oakland (2014)
-https://stream.hownetwork.xyz/xxx/straight-outta-oakland-2014-webdl_X_6671794a/22/480.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-kingdom-of-gladiators-the-tournament-2017-lk21-d21.jpg.webp" group-title="ACTION 2024",Kingdom of Gladiators: The Tournament (2017)
-https://stream.hownetwork.xyz/xxx/kingdom-of-gladiators-the-tournament-2017-webdl_X_dd54a96e/22/480.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-kill-craft-2024-lk21-d21.jpg.webp" group-title="ACTION 2024",Kill Craft (2024)
-https://stream.hownetwork.xyz/xxx/kill-craft-2024-webdl_X_919b79ba/22/480.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-misfortune-2016-lk21-d21.jpg.webp" group-title="ACTION 2024",Misfortune (2016)
-https://stream.hownetwork.xyz/xxx/misfortune-2016-webdl_X_ccbb1001/22/480.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/01/film-brush-with-danger-2014.jpg.webp" group-title="ACTION 2024",Brush with Danger (2014)
-https://stream.hownetwork.xyz/xxx/brush-with-danger-2014-webdl_X_21343ae9/22/480.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-mary-had-a-little-lamb-2023-lk21-d21.jpg.webp" group-title="ACTION 2024",Mary Had a Little Lamb (2023)
-https://stream.hownetwork.xyz/xxx/mary-had-a-little-lamb-2023-webdl_X_4fbb79b2/22/480.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-us-or-them-2023-lk21-d21.jpg.webp" group-title="ACTION 2024",Us or Them (2023)
-https://stream.hownetwork.xyz/xxx/us-or-them-2023-webdl_X_f3888e32/22/480.m3u8
-
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-the-last-kumite-2024-lk21-d21.jpg.webp" group-title="ACTION 2024",The Last Kumite (2024)
-https://stream.hownetwork.xyz/xxx/the-last-kumite-2024-bluray_X_58bdf85b/22/480.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-die-hart-2-die-harter-2024-lk21-d21.jpg.webp" group-title="ACTION 2024",Die Hart 2: Die Harter (2024)
-https://stream.hownetwork.xyz/xxx/die-hart-2-die-harter-2024-webdl_X_aca55ef4/22/480.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/04/film-knox-goes-away-2024-lk21-d21.jpg.webp" group-title="ACTION 2024",Knox Goes Away (2024)
-https://stream.hownetwork.xyz/xxx/knox-goes-away-2024-bluray_X_79919b3f.480/22/480.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/04/film-asphalt-city-2024-lk21-d21.jpg.webp" group-title="ACTION 2024",Asphalt City (2024)
-https://stream.hownetwork.xyz/xxx/asphalt-city-2024-bluray_X_1a708ad4.480/22/480.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/04/film-love-lies-bleeding-2024-lk21-d21.jpg.webp" group-title="ACTION 2024",Love Lies Bleeding (2024)
-https://stream.hownetwork.xyz/xxx/love-lies-bleeding-2024-bluray_X_9e7988cb/22/480.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/05/film-colors-of-evil-red-2024-lk21-d21.jpg.webp" group-title="ACTION 2024",Colors of Evil: Red (2024)
-https://stream.hownetwork.xyz/xxx/colors-of-evil-red-2024-webdl_X_a617fcf8.480/22/480.m3u8
 
 
 #EXTM3U billed-msg="CHANNEL MATI LAPOR ADMIN 085815053825 / RECEIVER RUSAK KITA GANTI BARU S&K BERLAKU"
