@@ -783,4 +783,8 @@ https://stream.hownetwork.xyz/xxx/straight-outta-oakland-2014-webdl_X_6671794a/2
 https://stream.hownetwork.xyz/xxx/kingdom-of-gladiators-the-tournament-2017-webdl_X_dd54a96e/22/480.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-kill-craft-2024-lk21-d21.jpg.webp" group-title="ACTION 2024",Kill Craft (2024)
+https://stream.hownetwork.xyz/xxx/kill-craft-2024-webdl_X_919b79ba/22/480.m3u8
+
+
 #EXTM3U billed-msg="CHANNEL MATI LAPOR ADMIN 085815053825 / RECEIVER RUSAK KITA GANTI BARU S&K BERLAKU"
