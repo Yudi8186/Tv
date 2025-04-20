@@ -758,5 +758,29 @@ https://stream.hownetwork.xyz/xxx/boy-kills-world-2024-webdl_X_17491eaf/22/480.m
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-jackdaw-2024-lk21-d21.jpg.webp" group-title="ACTION 2024",Jackdaw (2024)
 https://stream.hownetwork.xyz/xxx/jackdaw-2024-bluray_X_fa47fe4f/22/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-binary-samurai-2023-lk21-d21.jpg.webp" group-title="ACTION 2024",Binary Samurai (2023)
+https://stream.hownetwork.xyz/xxx/binary-samurai-2023-webdl_X_890fe4e0.480/22/480.m3u8
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-paradox-effect-2024-lk21-d21.jpg.webp" group-title="ACTION 2024",Paradox Effect (2024)
+https://stream.hownetwork.xyz/xxx/paradox-effect-2024-webdl_X_1ce05063/22/480.m3u8
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-straight-outta-oakland-2014-lk21-d21.jpg.webp" group-title="ACTION 2024",Straight Outta Oakland (2014)
+https://stream.hownetwork.xyz/xxx/straight-outta-oakland-2014-webdl_X_6671794a/22/480.m3u8
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-kingdom-of-gladiators-the-tournament-2017-lk21-d21.jpg.webp" group-title="ACTION 2024",Kingdom of Gladiators: The Tournament (2017)
+https://stream.hownetwork.xyz/xxx/kingdom-of-gladiators-the-tournament-2017-webdl_X_dd54a96e/22/480.m3u8
+
 
 #EXTM3U billed-msg="CHANNEL MATI LAPOR ADMIN 085815053825 / RECEIVER RUSAK KITA GANTI BARU S&K BERLAKU"
