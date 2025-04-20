@@ -733,4 +733,30 @@ https://koceng.nofendraedi.workers.dev/WK3.mp4
 https://koceng.nofendraedi.workers.dev/WK4.mp4
 
 
+----------------------------------------------ACTION------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-big-city-greens-the-movie-spacecation-2024-lk21-d21.jpg.webp" group-title="ACTION 2024",Big City Greens the Movie: Spacecation (2024)
+https://stream.hownetwork.xyz/xxx/big-city-greens-the-movie-spacecation-2024-webdl_X_e6d2a89b/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="http://164.215.103.147/wp-content/uploads/2023/06/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg" group-title="ACTION 2024",John Wick: Chapter 2 (2017)
+https://d35.doodrive.com/d/6vo7wy?d=c7ffbd00a6f2e320e187c93a
+
+#EXTINF:-1 tvg-logo="http://164.215.103.147/wp-content/uploads/2019/05/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg" group-title="ACTION 2024",John Wick: Chapter 3 – Parabellum (2019)
+https://d35.doodrive.com/d/dmxjvx?d=de65db133eefb5efe0bce91d
+
+
+#EXTINF:-1 tvg-logo="https://cdn.pusatfilm21.info/wp-content/uploads/2024/06/eacWm6jPrjkpqhi4VzwqYeJWL6k.jpg" group-title="ACTION 2024",Damaged (2024)
+https://d37.doodrive.com/d/pk421x?d=a8bde37bf95e35e66fc7c966
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-life-after-fighting-2024-lk21-d21.jpg.webp" group-title="ACTION 2024",Life After Fighting (2024) 
+https://stream.hownetwork.xyz/xxx/life-after-fighting-2024-webdl_X_1b6bb53d/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-boy-kills-world-2024-lk21-d21.jpg.webp" group-title="ACTION 2024",Boy Kills World (2024)
+https://stream.hownetwork.xyz/xxx/boy-kills-world-2024-webdl_X_17491eaf/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-jackdaw-2024-lk21-d21.jpg.webp" group-title="ACTION 2024",Jackdaw (2024)
+https://stream.hownetwork.xyz/xxx/jackdaw-2024-bluray_X_fa47fe4f/22/480.m3u8
+
+
 #EXTM3U billed-msg="CHANNEL MATI LAPOR ADMIN 085815053825 / RECEIVER RUSAK KITA GANTI BARU S&K BERLAKU"
