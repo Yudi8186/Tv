@@ -13,7 +13,7 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="1 SATELIT", RCTI FERI COBA DULU 
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="1 SATELIT", RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
@@ -92,7 +92,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
 
 
-#EXTINF:-1 tvg-name="TV ONE" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="1 SATELIT", TV ONE fery coba
+#EXTINF:-1 tvg-name="TV ONE" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="1 SATELIT", TV ONE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
@@ -607,23 +607,8 @@ https://windnew.newkso.ru/wind/premium47/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="LIVE VOLLY", LIVE  7 KBSN
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/7e4n2vigkzbhcoakueyfea8ld2k8zfpuy6/480.stream/hdntl=exp=1743104525~acl=*%2F7e4n2vigkzbhcoakueyfea8ld2k8zfpuy6%2F*~data=hdntl~hmac=5241a59f8adb7d792106ce5f022831d5afc0fffd22640a4a44729e81a0d278e9/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="LIVE VOLLY", LIVE  8 LIGA VOLLY KOREA
-https://p2.skypeak.cloud/stream.m3u8?type=s&id=2%2Csd%2Cl&auth=296099ddb7abebaa8777dc136ba9eff019598c4aa34
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="LIVE VOLLY", LIGA KOREA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=voly2&type=m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="LIVE VOLLY", LIGA VOLLY THAILAND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyx/
-https://live3.procdnlive.com/livecdn/channel52.m3u8?auth_key=3000001740294406-0-0-6e12c08a01a8d456d4d5711fdea6904a
 
 vod 
 
