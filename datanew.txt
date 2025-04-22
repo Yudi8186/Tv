@@ -400,17 +400,9 @@ https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass3vak/master450.
 https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass4cn/master450.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="" group-title="SPORT CH" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain-sport-1-bh.png", Bahrain Sport 1 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/index.m3u8
-
-#EXTINF:-1 tvg-name="BEIN 1 TH" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/epl-bein1.png" group-title="SPORT CH",BEIN 1 THA
-https://iptv2.wirdy.workers.dev/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="BEIN 3 TH" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/epl-bein2.png" group-title="SPORT CH",BEIN 3 THA
-https://iptv2.wirdy.workers.dev/02_epl2_720p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="SPORT CH" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png",BEIN SPORTS 1 AR
@@ -646,12 +638,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-#EXTINF:-1 tvg-name="BEIN 1 TH" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/epl-bein1.png" group-title="SPORT 1",BEIN 1 THA
-https://iptv2.wirdy.workers.dev/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="BEIN 3 TH" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/epl-bein2.png" group-title="SPORT 1",BEIN 3 THA
-https://iptv2.wirdy.workers.dev/02_epl2_720p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="SPORT 1" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png",BEIN SPORTS 1 AR
