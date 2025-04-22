@@ -202,11 +202,6 @@ KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/cubmu/drm.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36#EXTINF:-1 group-title="WEN HEWEN" tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.klikwarta.com/sites/default/files/inline-images/image003.png",Lingua Channel
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
 ______________________________________________________________________________________
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/royqep3xryxyqtv/soccer.png" group-title="SPORT CH", Soccer Channel
-https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
-
 
 #EXTINF:-1 group-title="SPORT CH" tvg-id="SSC 1" tvg-logo="https://i.ibb.co/pj6Ty4M/SSC1.webp", SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -281,31 +276,11 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/diema_sport_bg.png" group-title="SPORT CH" , DIEMA SPORT 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.newkso.ru/wind/premium465/mono.m3u8
-
-#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/diema_sport_bg_2_hd.png" group-title="SPORT CH" , DIEMA SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.newkso.ru/wind/premium466/mono.m3u8
-
-#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/diema_sport_bg_2_hd.png" group-title="SPORT CH" , DIEMA SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.newkso.ru/wind/premium467/mono.m3u8
-
-
 =========================================== UFC/MMA ==============================================================================
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="UFC/MMA/TINJU/CAROK/KEKET",SONY SPORTS TEN 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mae.live/
 https://windnew.newkso.ru/wind/premium467/mono.m3u8
-
-
-=========================================== UFC/MMA ======//tvcanale.live/
-https://windnew.newkso.ru/wind/premium885/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png" group-title="UFC/MMA/TINJU/CAROK/KEKET",SONY SPORTS TEN 2
@@ -747,36 +722,6 @@ https://koceng.nofendraedi.workers.dev/WK3.mp4
 
 #EXTINF:-1 tvg-logo="http://i.ibb.co/Tc7Rw7B/Warkop-DKI-Reborn-4-2020.jpg" group-title="VOD", WARKOP DKI REBORN 4 (2020)
 https://koceng.nofendraedi.workers.dev/WK4.mp4
-
-
-
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=800000, RESOLUTION=640x360, SUBTITLES="subs" 
-https://xmze.vizcloud.club/simple/EqPFIf8QWADtjDlGha7rC8Uuqlxbu7rvTw17rqk+wYMnU94US2El/br/H3/v.m3u8
-
-#EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent=Android-R+
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",GROUP-GENRE="Action",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="id",URI="https://raw.githubusercontent.com/Iqbalbala/SUBTILE/main/SubAllQuietontheWesternFront.m3u8"
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=4500000, RESOLUTION=1920x1080, SUBTITLES="subs" 
-https://mqmn.vizcloud.co/simple/EqPFJvsQWADtjDlGha7rC5cu+lxd_72wSAV7rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H4/v.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1800000, RESOLUTION=1280x720, SUBTITLES="subs" 
-https://mqmn.vizcloud.co/simple/EqPFJvsQWADtjDlGha7rC5cu+lxd_72wSAV7rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H3/v.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1200000, RESOLUTION=854x480, SUBTITLES="subs" 
-https://mqmn.vizcloud.co/simple/EqPFJvsQWADtjDlGha7rC5cu+lxd_72wSAV7rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H2/v.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=800000, RESOLUTION=640x360, SUBTITLES="subs" 
-https://mqmn.vizcloud.co/simple/EqPFJvsQWADtjDlGha7rC5cu+lxd_72wSAV7rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H1/v.m3u8
-
-#EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent=Android-R+
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",GROUP-GENRE="Action",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="id",URI="https://raw.githubusercontent.com/Iqbalbala/SUBTILE/main/Subambulance.m3u8"
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=4500000, RESOLUTION=1920x1080, SUBTITLES="subs" 
-https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU94US2El/br/H4/v.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1800000, RESOLUTION=1280x720, SUBTITLES="subs" 
-https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU94US2El/br/H3/v.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1200000, RESOLUTION=854x480, SUBTITLES="subs" 
-https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU94US2El/br/H3/v.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=800000, RESOLUTION=640x360, SUBTITLES="subs" 
-https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU94US2El/br/H3/v.m3u8
 
 
 
