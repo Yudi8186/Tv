@@ -1,7 +1,7 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml"
 
-https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml
+
 #EXTINF:-1 tvg-logo="" group-title="1 YUDI 085815053825", 085815053825
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce
 #EXTINF:-1 tvg-logo="" group-title="2 FERI 0881027567922", 085815053825
