@@ -27,7 +27,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title=1TV SATELIT",MNCTV (R+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="1TV SATELIT",MNCTV (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTVLCOPT:http-user-agent=android-R+
@@ -61,7 +61,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 
-#EXTINF:-1 group-title=1TV SATELIT" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png", NET
+#EXTINF:-1 group-title="1TV SATELIT" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png", NET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 
