@@ -129,6 +129,11 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384
 https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 
 
+#EXTINF:-1 tvg-id="BeritaSatuNewsChannel.id" group-title="1TV SATELIT" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/030/50030-SNAPSHOT-l.png",BTV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+
 _____________________________________________________________________________________________________________
 ================ Knowledge & Documentary ==========================>
 
