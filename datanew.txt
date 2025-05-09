@@ -266,8 +266,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
 
-#EXTINF:-1 tvg-id="Dubai.sp1" tvg-logo="https://i.postimg.cc/Qdg3BWWx/6515a4c14a.png" group-title="SPORT CH", DUBAI SPORT 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="Dubai.sp2" tvg-logo="https://i.postimg.cc/J4kmLFrX/65159df2a1.png" group-title="SPORT CH", DUBAI SPORT 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
@@ -283,9 +281,6 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass3vak/master450.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-four-qa.png" group-title="SPORT CH", AL KASS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass4cn/master450.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="SPORT CH" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain-sport-1-bh.png", Bahrain Sport 1 
