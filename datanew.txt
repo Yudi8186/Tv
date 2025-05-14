@@ -128,9 +128,14 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="1TV SATELIT",Nusantara TV HD 
 https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 
+
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/005/50005-SNAPSHOT-l.png" group-title="1TV SATELIT",Vision Prime
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://dsgtq5sngxkde.cloudfront.net/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
+
 _____________________________________________________________________________________________________________
 ================ Knowledge & Documentary ==========================>
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
