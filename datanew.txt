@@ -3,15 +3,6 @@
 
 #EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-logo="" group-title="1 YUDI 085815053825", 085815053825
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce
-#EXTINF:-1 tvg-logo="" group-title="2 FERI 0881027567922", 085815053825
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce
-#EXTINF:-1 tvg-logo="" group-title="CHANEL MATI LAPOR ADMIN", 085815053825
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce
-
-
-
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
