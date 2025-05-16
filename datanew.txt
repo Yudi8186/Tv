@@ -6,7 +6,7 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png" group-title="1TV SATELIT",Sindonews KELUHAN INFO 085815053825
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png" group-title="1TV SATELIT",15 Sindonews KELUHAN INFO 085815053825
 http://202.147.193.244/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
 
 #EXTVLCOPT:http-user-agent=android-R+
