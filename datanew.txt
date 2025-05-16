@@ -15,13 +15,13 @@ http://202.147.193.244/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png" group-title="1TV SATELIT",GTV KELUHAN INFO 085815053825
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png" group-title="1TV SATELIT",3 GTV KELUHAN INFO 085815053825
 http://202.147.193.244/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="1TV SATELIT",MNCTV KELUHAN INFO 085815053825
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="1TV SATELIT",2 MNCTV KELUHAN INFO 085815053825
 http://202.147.193.244/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="1TV SATELIT",Inews KELUHAN INFO 085815053825
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="1TV SATELIT",10 Inews KELUHAN INFO 085815053825
 http://202.147.193.244/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
 
