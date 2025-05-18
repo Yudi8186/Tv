@@ -382,6 +382,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 SKYSPORTS --------------
+#EXTINF:-1 group-logo="https://i.ibb.co/hWLpsBc/motoracing.png
 
 #EXTINF:-1 group-title="SkySports" tvg-id="sky.sports.main.event.gb" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
 http://fortv.cc:8080/live/q8KuDU/354945/35243.ts
