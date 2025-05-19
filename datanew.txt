@@ -511,6 +511,15 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol
 
 
 
+KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
+#EXTINF:-1 group-title="BEINSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png",USA Network 1
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/fnm5pcql5f4jnxd/sportv.png" group-title="BEINSPORT",SporTV1
  
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/fnm5pcql5f4jnxd/sportv.png" group-title="BEINSPORT",SportTV2
