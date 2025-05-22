@@ -28,7 +28,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="1TV SATELIT", 2 GTV 
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://gtv-linier.rctiplus.id/hdntl=exp=1747988931~acl=%2F*~data=hdntl~hmac=c88666f6edc346a61f73f4a94a71dbb152299a7e4e976e79f49f8b165cbcd039/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
