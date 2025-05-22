@@ -17,7 +17,7 @@ https://rcti-linier.rctiplus.id/hdntl=exp=1747987377~acl=%2F*~data=hdntl~hmac=75
 
 
 
-
+kunci 
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -33,7 +33,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="1TV SATELIT", 3 MNCTV 
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://rcti-linier.rctiplus.id/hdntl=exp=1747987377~acl=%2F*~data=hdntl~hmac=75c7ad5f2dd63d46aea6a11b7b616880aac620be0897d2ceb78b4ad8f5e2ab46/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
