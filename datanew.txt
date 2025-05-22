@@ -21,7 +21,7 @@ kunci
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="1TV SATELIT",1 RCTI KELUHAN INFO 085815053825
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="1TV SATELIT",20 RCTI KELUHAN INFO 085815053825
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
