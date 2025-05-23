@@ -20,8 +20,7 @@ https://gtv-linier.rctiplus.id/hdntl=exp=1748046949~acl=%2F*~data=hdntl~hmac=050
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="1TV SATELIT", 3 MNCTV 
- via offline 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="1TV SATELIT", 3 MNCTV via offline 
 https://mnctv-linier.rctiplus.id/hdntl=exp=1748047291~acl=%2F*~data=hdntl~hmac=5e0cbd3f74af702276485043729f614a9b3a8786102a66160fdd348a9155dd26/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 
