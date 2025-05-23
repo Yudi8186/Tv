@@ -10,7 +10,8 @@ https://rcti-linier.rctiplus.id/hdntl=exp=1747987377~acl=%2F*~data=hdntl~hmac=75
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="1TV SATELIT",1 RCTI COBA OFFLINE https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="1TV SATELIT",1 RCTI COBA OFFLINE 
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
 
