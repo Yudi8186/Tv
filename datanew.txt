@@ -16,10 +16,7 @@ https://rcti-linier.rctiplus.id/hdntl=exp=1748045954~acl=%2F*~data=hdntl~hmac=57
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="1TV SATELIT", 2 GTV via offline 
-https://gtv-linier.rctiplus.id/hdntl=exp=1748046949~acl=%2F*,
-ata=hdntl-hmac=05053ec7907fb3fa6002a6fbea2f222925ec8
-4f027f471cafb5b6022041fffe/gtv-sdi-avc1_800000-9-mp4a_9
-000=1.m3u8
+https://gtv-linier.rctiplus.id/hdntl=exp=1748046949~acl=%2F*~data=hdntl~hmac=05053ec7907fb3fa6002a6fbea2f222925ec884f027f471cafb5b6022041fffe/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
