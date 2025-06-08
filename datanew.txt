@@ -347,11 +347,6 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18345&type=dash
 
 SPORTINDO --------------------------------------------------
 
-#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="SPORTINDO",1 SPORTSTARS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=112
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=112
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
