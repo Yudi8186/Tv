@@ -6,19 +6,6 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
 
-=============================================EURO=================================================================
-
-
-#EXTINF:-1 group-title="UEFA NATION LEAGUE" tvg-id="UEFA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzzu4mbiqNe7gmr6LI7-T1Rr4_iZp-iV9YxL_gxHkx0ZKoPJmuZU1iCY8A&s=10", GERMANY VS PORTUGAL 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=uefa1&type=m3u8
-
-#EXTINF:-1 group-title="UEFA NATION LEAGUE" tvg-id="UEFA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4iYh_XUDlwj8MlV_yxp5NgG_QfTuLd70thGLz5mRJFCIfhFjwDm_yaFF&s=10", SPANYOL VS PRANCIS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=uefa2&type=m3u8
-
 ========================================WC QF ==================================================
 
 
