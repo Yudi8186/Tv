@@ -348,11 +348,6 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18345&type=dash
 SPORTINDO --------------------------------------------------
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=115&type=drm&token=g9tZfKv8HA
-#EXTINF:-1 tvg-id="MNCSports4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="SPORTINDO",Soccer Channel
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTINF:-1 tvg-id= "SPOTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="SPORTINDO",SpoTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -365,18 +360,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=113&type=drm&token=g9tZfKv8HA
-#EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="SPORTINDO",2 Sportstars 2
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="SPORTINDO",2 SPORTSTARS 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=113
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=113
 
 
 
@@ -432,7 +415,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0
 ##ODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ##ODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=112
-##XTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="Sports",Sportstars 
+##XTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="SPORTINDO",Sportstars 
 ##https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="Sportstars",Sportstars 
@@ -441,19 +424,19 @@ https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ##KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=113
-##EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Sportstars",Sportstars 2
+##EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="SPORTINDO",Sportstars 2
 ##https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Sportstars",Sportstars 2
+#EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="SPORTINDO",Sportstars 2
 https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
 
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ##KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=114&type=drm&token=g9tZfKv8HA
-##EXTINF:-1 tvg-id="MNCSports3.id" group-title="Sportstars" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png",Sportstar 3
+##EXTINF:-1 tvg-id="MNCSports3.id" group-title="SPORTINDO" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png",Sportstar 3
 ##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-##EXTINF:-1 tvg-id="MNCSports4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="Sportstars",Sportstar 4
+##EXTINF:-1 tvg-id="MNCSports4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="SPORTINDO",Sportstar 4
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
 ##KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -464,39 +447,6 @@ https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
 
 
 
-SKYSPORTS --------------
-#EXTINF:-1 group-logo="https://i.ibb.co/hWLpsBc/motoracing.png
-
-#EXTINF:-1 group-title="SkySports" tvg-id="sky.sports.main.event.gb" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
-http://fortv.cc:8080/live/q8KuDU/354945/35243.ts
-
-#EXTINF:-1 group-title="SkySports" tvg-id="skysportsmix.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",Sky Sport Mix
-http://fortv.cc:8080/live/q8KuDU/354945/53706.ts
-
-#EXTINF:-1 group-title="SkySports" tvg-id="sky.sports.golf.gb" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
-http://fortv.cc:8080/live/q8KuDU/354945/35240.ts
-
-#EXTINF:-1 group-title="SkySports" tvg-id="skysportsaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",Sky Sport Action
-http://fortv.cc:8080/live/q8KuDU/354945/53705.ts
-
-#EXTINF:-1 group-title="SkySports" tvg-id="skysportsarena.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",Sky Sport Arena
-http://fortv.cc:8080/live/q8KuDU/354945/137719.ts
-
-#EXTINF:-1 group-title="SkySports" tvg-id="sky.sports.f1.gb" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",Sky Sport F1
-http://fortv.cc:8080/live/q8KuDU/354945/35244.ts
-
-#EXTINF:-1 group-title="SkySports" tvg-id="sky.sports.news.gb" tvg-logo="https://docdog.top/Logotv/countries/germany/sky-sport/sky-sport-news-alt-de.png",Sky Sport News
-http://fortv.cc:8080/live/q8KuDU/354945/35241.ts
-
-
-#EXTINF:-1 group-title="SkySports" tvg-id="sky.sports.racing.gb" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",Sky Sport Racing
-http://fortv.cc:8080/live/q8KuDU/354945/76842.ts
-
-#EXTINF:-1 group-title="SkySports" tvg-id="skysportsfootball.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
-http://supersonictv.live:8080/live/Sheila/Sheila1/78150.ts
-
-#EXTINF:-1 group-title="SkySports" tvg-id="skysportspremiereleague.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-premier-league-uk.png",Sky Sport Primere League
-http://supersonictv.live:8080/live/Sheila/Sheila1/78155.ts
 
 
 
