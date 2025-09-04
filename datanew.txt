@@ -855,41 +855,7 @@ https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro
 
 
 
-#EXTINF:-1 tvg-id="digisport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/svrprs1436105433.png" group-title="SPORTS" , DIGI SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium401
-
-#EXTINF:-1 tvg-id="digisport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/utuqys1454953276.png" group-title="SPORTS" , DIGI SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium402
-
-#EXTINF:-1 tvg-id="digisport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9nB--KtZACLfS651nCzvhAXz_zEm05PaCW3WTATodgXMxK80Sxg3Atik&s=10" group-title="SPORTS" , DIGI SPORT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium404
-
-logo="https://image.roku.com/developer_channels/prod/38723e11ba5a75e50b1868270207b64fafae1dad63d7bccdc9d6a203f5d80d6c.png",GNN TV NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://amg18570-amg18570c1-freelivesports-emea-5535.playouts.now.amagi.tv/playlist/amg18570-golfnewsnetwork-golfnewsnet-freelivesportsemea/cb563d167b6c678a9dd43878d7f862ffa65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600a6641267edb689e3c5d92b92ffa2a6d380871999fac78df890a72cabc725636a326470aab1e628576087d90a939009732b87c4a42bb5e20067cddf359bd0b0d97d956de6f4adafb8c2360625f5c98435ee3b24aa2aab0554cdc6fa7ac1f4cc62e58e68314c9c915bc83814696128027f11c9dc6f58bdb128895ab5ffa0fe33a075d2e4297817496bb2edcabbd66359a3106430946a68d96ea5933944c19219292c8b06beb16c09d1a866539a905ea23ee5aad64a60febd25eafbfaf852e2b5ca7cb4b7126d286caebab6f59d705f7affdaf1016f8a64e132dad6adc32394af397aa44deb07ff7a651ebde050e28cf83518889a08aedb18110f34fa9c3fd9c4f2a24052f2e9504fa995fd443ae10040a175b3e6460eff37cca82d65035714687f231be713a8aab4007426c41ae410853e91ab533c7b5c8460a58e423fd9f2e2efa4ec644314f99721cfa2bd9b93fe1e7f1e4103affbe950097059e7890eefba737119c20a126ba10b0d3775d9a82471e39788c6fe5d8cbf363083a0e96a7f1ed5c220e351b5343deacb730d3a2c927080e9a13076e7002189f0096388f5b092b67893fc3bc0571b2032306efb37008093bd89be7c1cffde27098539f8ff130243e1944b8300e29279395854bf2354e312b0ed741340ded490a02c79acbec95852efd9d62ab2a6b5b3696a759125f201e096dba9e6cc551eb976fdbca9a26ace5ee4313d624c2e1716f3c11cd9e1d74378a3649ed640e62aa05f477300e/163/426x240_689520/index.m3u8
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-UBviY6TLi0-ZQagKc9iYnB4_IRxvqS8QI7Bwp9GQ244d9AK5h0hAKnI&s=10",FITE 24/7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://amg00348-amg00348c1-sportstribal-emea-4192.playouts.now.amagi.tv/playlist/amg00348-dooyamediagroupinc-fite24x7-sportstribalemea/c6ac7c41-34c1-11f0-96ba-a63b33225e2f/6/426x240_391534/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzW1JGqqd974HwPTWyBbd1ILbjrT6W4crnp5kRT11A-V7NHQWfPf0CYtY&s=10", WPT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://d39azd0vpxfn6x.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-MuxIP-WPTLive/b20265d5-5ec4-4542-9d60-0d4eacb10c49/0.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6kR_YcC9YBiuF5huJhO59xYtZGMnJUYBrifPkKQ4o8FslVjASwg4HYw&s=10" group-title="SPORTS", FOOSBALL TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://amg00585-sportstribal-amg00585c2-sportstribal-emea-2176.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-foosballtv-sportstribalemea/cb563d167b6c678a9dd43878d7f862ffa65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600a6641267edb689e3c5d92b92ffa2a6d380871999fac78df890a72cabc725636a326470aab1e628576087d90a939009732b87c4a42bb5e20067cddf359bd0b0d97d956de6f4adafb8c2360625f5c98435ee3b24aa0fce45510de6ba4ac1f4cc62d58e68314c9c94dead4d446cf458f20f91598c1a18e85188897ab5efa08ec200c5636429e857781cc2fc6b0f44f3693652a471259aa9083f15c28dc2c2938fffbdbad179c79afd97fee0a54bf099c3dec5aec40861afeb94dfad0d1b3414938aaca5e6d18aee4ad8f895859d640f4adfadf727095b6204e1dba07b9325956fa91d8048bd10185a2318cb668110acffb36f331768795d2a46ede4ce3c9f09733475d6a0570e937c0bb5eabe259e5cab477004f4445d7f63d065fdd2c56464e88845bc65168d1174a87ad6c11e31a727fe973cd1b2f6dda35261cb76f91f04da1131a0720ab415b2196150ac057bace8791892728bcdf8868fe64eea71ed3cce0c80733740da9fb20534403289ebe26451c70cd50fc888ac0790d12e3fec9be91036347125e122d9bf2eb75ac8bc20214028e0675373a4341d64cfd41eb2d654c6ec517d8a9495380052a22afe71c5548639bcdfed0d4818414fb2f9d9fbd142039506fb873362768d2a48416a86b1c30290bf2620e249c095e50e59ccd97fbd13eb4fc6ec8603a0c02259196aec4f3159db9ca7a08a777b53043abf24ef881b5/88/640x360_1561904/index.m3u8
-#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="SPORTS", ESPN  USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://fl1.moveonjoy.com/ESPN_U/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="digisport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/svrprs1436105433.png" 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxRMV2G1q3dXWyhbC_BpMpCWMkfQAigmoiuQ&s" group-title="SPORTS", ESPN 2 USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
