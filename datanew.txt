@@ -911,48 +911,6 @@ https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/in
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
 
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-name="" group-title="SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/ukPeKAaUw6sbWtd0UvEwfcC6dG0=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg",SPO TV 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-#EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png" group-title="SPORTS", SPORTV BRA 1 
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://firetop1.site/live/158717872/875587369/518.ts
-
-#EXTINF:-1 tvg-id="SPORTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/250px-SporTV_2_2017_logo.svg.png" group-title="SPORTS", SPORTV BRA 2
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://firetop1.site/live/158717872/875587369/519.ts
-
-#EXTINF:-1 tvg-id="SPORTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/SporTV_3_logo_2011.png/800px-SporTV_3_logo_2011.png" group-title="SPORTS", SPORTV BRA 3
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://firetop1.site/live/158717872/875587369/147.ts
-
-#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" group-title="SPORTS",TSN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://fl1.moveonjoy.com/TSN_1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TSN 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="SPORTS",TSN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://fl1.moveonjoy.com/TSN_2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png" group-title="SPORTS",TSN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://fl1.moveonjoy.com/TSN_3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" group-title="SPORTS",TSN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://fl1.moveonjoy.com/TSN_4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TSN 5" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sytpty1433380112.png/tiny" group-title="SPORTS",TSN 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://fl1.moveonjoy.com/TSN_5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" group-title="SPORTS", TNT ARGENTINA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.newkso.ru/ddy6/premium388/mono.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
