@@ -531,11 +531,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMP_4SJ5aoPLbr9J3DAsNA9hhsl1NhZZL5YYc_mhU8mqWBHaWtxynViQyS&s=10" group-title="BEINSPORT" , BEIN SPORTS XTRA En Español 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4j70fr1641505813.png" group-title="BEINSPORT", 01 MAX SPORT 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
-
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/fnm5pcql5f4jnxd/sportv.png" group-title="BEINSPORT",SporTV1
  
@@ -617,33 +612,6 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/lsdasbvglv/out/v1/b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
-
-
-#EXTINF:-1 tvg-name="TRUE P1" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="TNTGROUP",TRUE PREMIER 1 
-https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="TRUE P2" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="TNTGROUP",TRUE PREMIER 2
-https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD2_720p/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-name="TRUE P3" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="TNTGROUP",TRUE PREMIER 3
-https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="TRUE P4" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier4.png" group-title="TNTGROUP",TRUE PREMIER 4
-https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="TRUE 2" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport2.png" group-title="TNTGROUP",TRUE SPORT 2
-https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="TRUE 3" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport3.png" group-title="TNTGROUP",TRUE SPORT 3
-https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="TRUE 4" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport4.png" group-title="TNTGROUP",TRUE SPORT 4
-https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="TRUE 5" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl5.png" group-title="TNTGROUP",TRUE SPORT 5
-https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd4_720p/chunklist.m3u8
 
 
 =======================================MotoGP====================================================
@@ -795,17 +763,6 @@ https://av-ch-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash/CGTN_Doc.mpd
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
-
-RELIGI 
--------------------------------------------------------------------
-
-#EXTINF:-1 tvg-name="MEKKAH TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504956_tvchannels_v1.jpg" group-title="MEKKAH LIVE",MEKKAH TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
-
-#EXTINF:-1 tvg-name="MADINAH TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504962_tvchannels_v1.jpg" group-title="MEKKAH LIVE",MADINAH TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
 
 
 =========================================== SPORTS======================================================
@@ -1137,30 +1094,6 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 channel-id="samsung-GBBD2300003IK" tvg-id="GBBD2300003IK" tvg-chno="4513" tvg-logo="https://iili.io/JpwCQ24.png" group-title="SPORTS" , REDBULL TV
 https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Optus_Sport.png" group-title="SPORTS", OPTUS SPORT 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%201.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Optus_Sport.png" group-title="SPORTS", OPTUS SPORT 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%202.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Optus_Sport.png" group-title="SPORTS", OPTUS SPORT 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%203.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Optus_Sport.png" group-title="SPORTS", OPTUS SPORT 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%204.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Optus_Sport.png" group-title="SPORTS", OPTUS SPORT 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%205.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Optus_Sport.png" group-title="SPORTS", OPTUS SPORT 6
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%206.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Optus_Sport.png" group-title="SPORTS", OPTUS SPORT 7
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%207.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Optus_Sport.png" group-title="SPORTS", OPTUS SPORT 8
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%208.m3u8
 
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVxEUERSkc6M_MdM0sTcbz9_q53dC98aU902pefP_qK_bnNYrLBJKtJxl1&s=10" group-title="SPORTS", SOCCER CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
